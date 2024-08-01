@@ -1,6 +1,6 @@
 ### Oi, eu sou o Leonardo Serpa
 
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Python, SQL
 - 📫 Contato: (21)98313-1783
 
 ##
